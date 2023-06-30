@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hiraeth702
+- 👋 Hi, I’m @SnehaKaurav
 - 👀 I’m interested in web development and machine lerning.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on projects with machine learning as center.
